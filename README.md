@@ -6,3 +6,4 @@ AIO telegram bot for samsung users.
 
 Mady By @KassemSYR
 
+Access the bot via:- https://t.me/SamsungGeeksBot
